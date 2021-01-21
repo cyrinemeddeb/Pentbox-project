@@ -1,0 +1,6 @@
+signed_data.bin
+encrypted_data.bin
+private.pem
+reciever.pem
+# Project exclude paths
+/venv/
